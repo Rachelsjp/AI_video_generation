@@ -7,6 +7,7 @@ The workflow shows how multiple AI tools can be orchestrated to generate story-d
 The final output is a short cinematic advertisement video for a fictional honey brand THAENARUVI.
 ________________________________________
 🚀 Project Overview
+
 Traditional advertisement production requires:
 •	script writing
 •	cinematography
@@ -21,6 +22,7 @@ This project demonstrates how Generative AI can automate much of this creative p
 The result is a complete advertisement created from prompts.
 ________________________________________
 🧠 Generative AI Pipeline Architecture
+
 The project follows a multi-stage AI media generation pipeline:
 Prompt Design
       ↓
@@ -40,6 +42,7 @@ Final Advertisement Video
 This demonstrates how multiple AI systems can be integrated into a creative workflow.
 ________________________________________
 🧩 Prompt Engineering Framework
+
 To ensure consistent AI-generated visuals, prompts were designed using a cinematic prompt structure.
 Component	Purpose
 Subject	Main character or product
@@ -63,6 +66,7 @@ ________________________________________
 The advertisement consists of three AI-generated cinematic scenes.
 ________________________________________
 🌸 Scene 1 – The Honeybee Journey
+
 A cute honeybee flies through a colorful flower garden toward a warm kitchen window during sunset.
 Purpose:
 •	Create curiosity
@@ -78,6 +82,7 @@ Image file:
 Images/scene1_bee_garden.png
 ________________________________________
 🍯 Scene 2 – Brand Mascot Moment
+
 A Pixar-style honeybee mascot stands beside a premium honey jar labeled THAENARUVI.
 Purpose:
 •	Introduce the brand
@@ -106,6 +111,7 @@ Image file:
 Images/scene3_honey_product.png
 ________________________________________
 🖼️ AI Image Generation
+
 Images were generated using:
 Tool: Nano Banana AI Image Generator
 Each scene prompt was designed to maintain:
@@ -120,6 +126,7 @@ Prompts_AI/
     scene3_prompt.txt
 ________________________________________
 🎬 AI Video Generation
+
 The generated images were converted into videos using:
 Tool: Google Labs – Flow (Text to Video)
 Technique used:
@@ -136,6 +143,7 @@ videos/
     video_part2.mp4
 ________________________________________
 🎞 Video Editing & Assembly
+
 Final editing was performed using:
 Tool: Clipchamp
 Editing steps:
@@ -179,6 +187,7 @@ AI_video_generation
 └── README.md
 ________________________________________
 🛠 Tools Used
+
 Tool	Purpose
 Nano Banana	AI Image Generation
 Google Flow (Labs)	Text-to-Video Generation
@@ -187,6 +196,7 @@ VS Code	Prompt Management
 GitHub	Version Control
 ________________________________________
 💡 Real World Applications
+
 This workflow can be used for:
 •	AI-generated product advertisements
 •	automated marketing video creation
@@ -200,6 +210,7 @@ Industries where this approach is valuable:
 •	social media marketing teams
 ________________________________________
 🎯 Learning Outcomes
+
 Through this project I explored:
 •	cinematic prompt engineering
 •	AI image generation workflows
@@ -208,6 +219,7 @@ Through this project I explored:
 •	building AI-powered advertisement content
 ________________________________________
 🔮 Future Improvements
+
 Possible future enhancements:
 •	AI voice narration
 •	AI background music generation
@@ -216,6 +228,7 @@ Possible future enhancements:
 •	integration with tools like Runway, Pika, or Sora
 ________________________________________
 👩‍💻 Author
+
 Rachel Purnima
 Data Analytics Lead transitioning into AI / Generative AI Engineering
 Focus Areas:
