@@ -1,5 +1,7 @@
 🎬 AI Cinematic Product Advertisement Generation
+
 THAENARUVI Honey – Generative AI Video Project
+
 This project demonstrates a Generative AI multi-modal pipeline that combines prompt engineering, AI image generation, and text-to-video synthesis to create a cinematic product advertisement video.
 The workflow shows how multiple AI tools can be orchestrated to generate story-driven marketing content automatically.
 The final output is a short cinematic advertisement video for a fictional honey brand THAENARUVI.
