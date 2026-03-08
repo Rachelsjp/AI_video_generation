@@ -229,8 +229,9 @@ Possible future enhancements:
 ________________________________________
 👩‍💻 Author
 
-Rachel Purnima
-Data Analytics Lead transitioning into AI / Generative AI Engineering
+Rachel Purnima Johnpeter
+Data Analytics Lead transitioning into AI / Generative AI Engineering 
+
 Focus Areas:
 •	Generative AI
 •	Prompt Engineering
